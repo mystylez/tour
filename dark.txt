@@ -1,0 +1,32 @@
+    <!-- main__content -->
+    <div class="mx-auto z-99 bg-black pb-96">
+      <div class="container-sm md:max-w-screen-sm mx-auto">
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/limbo.jpg" class="mx-auto" />
+        </a>
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/Regis.gif" class="mx-auto" />
+        </a>
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/per.webp" class="mx-auto" />
+        </a>
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/main__content.jpg" class="mx-auto" />
+        </a>
+      </div>
+    </div>
+    <!-- main__content -->
+
+
+       <!-- main__content -->
+    <div class="mx-auto z-99 bg-black pb-96">
+      <div class="container-sm md:max-w-screen-sm mx-auto">
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/tt.png" class="mx-auto" />
+        </a>
+        <a href="https://bit.ly/3vHK6jj" target="_blank">
+          <img src="public/img/main__content.jpg" class="mx-auto" />
+        </a>
+      </div>
+    </div>
+    <!-- main__content -->
